@@ -22,5 +22,5 @@ This project utilizes an Artificial Neural Network (ANN) to perform predictive a
 ## How to Use  
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git  
-   cd your-repo-name  
+   git clone https://github.com/Annmool/customer-churn-prediction.git  
+   cd customer-churn-prediction  
